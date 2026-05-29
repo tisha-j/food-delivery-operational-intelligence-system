@@ -159,19 +159,22 @@ Provides:
 
 ## Executive Overview
 
-(Add screenshot here)
+<img width="1442" height="803" alt="executive_overview" src="https://github.com/user-attachments/assets/58f75594-8a4a-4171-accf-0806628d8194" />
 
 ## Operational Intelligence
 
-(Add screenshot here)
+<img width="1437" height="803" alt="operational_intelligence" src="https://github.com/user-attachments/assets/9bee4ca5-4a6f-4da1-9bb4-7aa433a2fbbf" />
+
 
 ## Profitability Intelligence
 
-(Add screenshot here)
+<img width="1437" height="803" alt="profitability_intelligence" src="https://github.com/user-attachments/assets/fa97467a-8615-4278-9911-4ec8d73af978" />
+
 
 ## Strategic Insights
 
-(Add screenshot here)
+<img width="1442" height="803" alt="strategic_insights" src="https://github.com/user-attachments/assets/5ea1c3c3-74af-4acc-a372-fb9231edccb2" />
+
 
 ---
 
@@ -204,5 +207,3 @@ This project helped develop skills in:
 # Author
 
 Tisha S Jain
-
-MSc Business Analytics Candidate | Data Analytics & Business Intelligence Enthusiast

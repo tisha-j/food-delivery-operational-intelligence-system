@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Food Profitability Analytics",
+            "database": "${workspaceFolder:food_delivery_profitability}/food_delivery.db"
+        }
+    ]
+}
